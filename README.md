@@ -1,11 +1,12 @@
-<img src="Images/hii.gif" alt="" width="35" height="35">
 ### Hi there, I'm [Bhupali!](https://github.com/BhupaliRane)
+
+<img src="Images/hii.gif" alt="" width="35" height="35">
 
 
 - 🔥 Passionate Front-end Developer and UI designer
 - 😍 CSS Lover
 - 🌱 I’m currently diving into MERN Development and UI/UX
-<img src="Images/developer.gif" alt="" width="300" height="300" style="margin: 500px 300px">
+
 
 <div>
   <a href="mailto:ranebhupali23@gmail.com">
