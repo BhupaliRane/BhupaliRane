@@ -1,25 +1,21 @@
-### Hi there, I'm [Bhupali!](https://github.com/BhupaliRane)
-
-<div style="display: flex;">
 <img src="Images/hii.gif" alt="" width="35" height="35">
+### Hi there, I'm [Bhupali!](https://github.com/BhupaliRane)
 
 
 - 🔥 Passionate Front-end Developer and UI designer
 - 😍 CSS Lover
 - 🌱 I’m currently diving into MERN Development and UI/UX
-
-<img src="Images/developer.gif" alt="">
-</div>
+<img src="Images/developer.gif" alt="" width="300" height="300" style="margin: 500px 300px">
 
 <div>
   <a href="mailto:ranebhupali23@gmail.com">
-    <img width="30px" style="margin: 0 10px;" src="Images\gmail.png" />
+    <img width="30px" style="margin: 0 20px;" src="Images\gmail.png" />
   </a>
   <a  href="https://www.instagram.com/bhupalirane/">
-    <img width="30px" style="margin: 0 10px;" src="Images\instagram.png" />
+    <img width="30px" style="margin: 0 20px;" src="Images\instagram.png" />
   </a>
   <a href="www.linkedin.com/in/bhupali-rane-3693a11b0">
-    <img width="30px" style="margin: 0 10px;" src="Images\linkedin.png" />
+    <img width="30px" style="margin: 0 20px;" src="Images\linkedin.png" />
   </a>
 </div>
 
