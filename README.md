@@ -38,6 +38,6 @@
   <img src="Images\visual-studio-code.png" style="margin: 0 10px;" alt="git" width="35" height="35"/>
 </p>
 
-<img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhupaliRane&layout=compact&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="BhupaliRane" />
+<img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhupaliRane&layout=compact&&theme=radical" alt="BhupaliRane" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhupaliRane&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="BhupaliRane" />
+<img src="https://github-readme-stats.vercel.app/api?username=BhupaliRane&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="BhupaliRane" />
