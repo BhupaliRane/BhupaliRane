@@ -1,14 +1,18 @@
-### Hi there, I'm [Bhupali!](https://github.com/BhupaliRane)
+ <img align="right" src="Images/developer.gif" width="300" height="300">
 
-<img src="Images/hii.gif" alt="" width="35" height="35">
-
-
+<p>
+  <b>Hi there, I'm <a href="https://github.com/BhupaliRane">Bhupali!</a></b>
+  <img src="Images/hii.gif" align="center" style="display:flex;" width="35" height="35">  
+</p>
+ 
+  
+  
 - 🔥 Passionate Front-end Developer and UI designer
 - 😍 CSS Lover
 - 🌱 I’m currently diving into MERN Development and UI/UX
-
-
-<div>
+  
+### You can contact me on
+<div style="display: flex">
   <a href="mailto:ranebhupali23@gmail.com">
     <img width="30px" style="margin: 0 20px;" src="Images\gmail.png" />
   </a>
