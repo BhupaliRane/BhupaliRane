@@ -12,7 +12,7 @@
    - 🌱 I’m currently diving into MERN Development and UI/UX
 
    ### Find me on
-   <p align="center">
+   <div align="left" style="padding-left: 20px;">
      <a href="mailto:ranebhupali23@gmail.com">
        <img src="Images\gmail.png" width="30" height="30"/>
      </a>
@@ -22,7 +22,7 @@
      <a href="www.linkedin.com/in/bhupali-rane-3693a11b0">
        <img src="Images\linkedin.png" width="30" height="30"/>
      </a>
-   </p>
+   </div>
 
    ### Tools & Technologies I use
    <p style="margin: 30px 0;">
