@@ -14,13 +14,13 @@
 ### You can contact me on
 <div style="display: flex">
   <a href="mailto:ranebhupali23@gmail.com">
-    <img width="30px" style="margin: 0 20px;" src="Images\gmail.png" />
+    <img width="30px" style="margin:5px 50px;" src="Images\gmail.png" />
   </a>
   <a  href="https://www.instagram.com/bhupalirane/">
-    <img width="30px" style="margin: 0 20px;" src="Images\instagram.png" />
+    <img width="30px" style="margin: 5px 50px;" src="Images\instagram.png" />
   </a>
   <a href="www.linkedin.com/in/bhupali-rane-3693a11b0">
-    <img width="30px" style="margin: 0 20px;" src="Images\linkedin.png" />
+    <img width="30px" style="margin: 5 50px;" src="Images\linkedin.png" />
   </a>
 </div>
 
