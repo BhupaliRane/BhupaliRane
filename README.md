@@ -12,7 +12,6 @@
 - 🌱 I’m currently diving into MERN Development and UI/UX
   
 ### You can contact me on
-<div style="display: flex">
   <a href="mailto:ranebhupali23@gmail.com">
     <img width="30px" style="margin:5px 50px;" src="Images\gmail.png" />
   </a>
@@ -22,7 +21,6 @@
   <a href="www.linkedin.com/in/bhupali-rane-3693a11b0">
     <img width="30px" style="margin: 5 50px;" src="Images\linkedin.png" />
   </a>
-</div>
 
 
 ### Tools & Technologies I use
