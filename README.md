@@ -1,5 +1,6 @@
-<div style="display: flex;">
 ### Hi there, I'm [Bhupali!](https://github.com/BhupaliRane)
+
+<div style="display: flex;">
 <img src="Images/hii.gif" alt="" width="35" height="35">
 
 
