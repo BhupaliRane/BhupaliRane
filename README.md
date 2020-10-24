@@ -11,16 +11,16 @@
    - 😍 CSS Lover
    - 🌱 I’m currently diving into MERN Development and UI/UX
 
-   ### Find me on
-   <div align="left" style="padding-left: 20px;">
-     <a href="mailto:ranebhupali23@gmail.com">
-       <img src="Images\gmail.png" style="padding-left: 20px; width="30" height="30"/>
+   ### Contact me on
+   <div style="margin-left: 20px;">
+     <a style="margin-left: 20px; href="mailto:ranebhupali23@gmail.com">
+       <img src="Images\gmail.png" width="30" height="30"/>
      </a>
-     <a  href="https://www.instagram.com/bhupalirane/">
-       <img src="Images\instagram.png" style="padding-left: 20px; width="30" height="30"/>
+     <a style="margin-left: 20px; href="https://www.instagram.com/bhupalirane/">
+       <img src="Images\instagram.png" width="30" height="30"/>
      </a>
-     <a href="www.linkedin.com/in/bhupali-rane-3693a11b0">
-       <img src="Images\linkedin.png" style="padding-left: 20px; width="30" height="30"/>
+     <a style="margin-left: 20px; href="www.linkedin.com/in/bhupali-rane-3693a11b0">
+       <img src="Images\linkedin.png" width="30" height="30"/>
      </a>
    </div>
 
