@@ -12,10 +12,11 @@
    - 🌱 I’m currently diving into MERN Development and UI/UX
 
    ### Contact me on
+   <p>
      <a href="mailto:ranebhupali23@gmail.com"><img src="Images\gmail.png" width="30" height="30"/></a>
      <a href="https://www.instagram.com/bhupalirane/"><img src="Images\instagram.png" width="30" height="30"/></a>
      <a href="www.linkedin.com/in/bhupali-rane-3693a11b0"><img src="Images\linkedin.png" width="30" height="30"/></a>
-     
+   </p>
    ### Tools & Technologies I use
    <p style="margin: 30px 0;">
      <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" style="margin: 0 20px;" alt="html5" width="40" height="40"/> 
