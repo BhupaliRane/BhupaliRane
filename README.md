@@ -12,7 +12,7 @@
    - 🌱 I’m currently diving into MERN Development and UI/UX
 
    ### Contact me on
-   <p>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp; 
      <a href="https://www.instagram.com/bhupalirane/"><img src="Images\instagram.png" width="30" height="30"/></a>&nbsp;&nbsp;
      <a href="https://www.linkedin.com/in/bhupali-rane-3693a11b0/"><img src="Images\linkedin.png" width="30" height="30"/></a>
    </p>
