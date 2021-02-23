@@ -19,14 +19,10 @@
    
    ### Tools & Technologies I use
    <p style="margin: 30px 0;">
-     <i class="fab fa-html5"style="margin: 0 20px;" alt="css3" width="40" height="40"></i> &nbsp;&nbsp;
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" style="margin: 0 20px;" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;
-     <img src="Images\php.png" style="margin: 0 20px;" alt="php" width="40" height="40"/>&nbsp;&nbsp;
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" style="margin: 0 20px;" alt="react" width="40" height="40"/> &nbsp;&nbsp;
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" style="margin: 0 20px;" alt="nodejs" width="40" height="40"/> &nbsp;&nbsp;
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" style="margin: 0 20px;" alt="mongodb" width="40" height="40"/> &nbsp;&nbsp;
-     <img src="Images\git.png" style="margin: 0 20px;" alt="git" width="40" height="40"/>&nbsp;&nbsp;
-     <img src="Images\visual-studio-code.png" style="margin: 0 20px;" alt="vscode" width="40" height="40"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML5 <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- CSS3 <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Javascript <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- MERN Stack <br>
    </p>
 
    <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhupaliRane&layout=compact&&theme=radical" alt="BhupaliRane" />
