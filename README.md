@@ -19,8 +19,7 @@
    
    ### Tools & Technologies I use
    <p style="margin: 30px 0;">
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" style="margin: 0 20px;" alt="html5" width="40" height="40"/> &nbsp;&nbsp;
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" style="margin: 0 20px;" alt="css3" width="40" height="40"/> &nbsp;&nbsp;
+     <i class="fab fa-html5"style="margin: 0 20px;" alt="css3" width="40" height="40"></i> &nbsp;&nbsp;
      <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" style="margin: 0 20px;" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;
      <img src="Images\php.png" style="margin: 0 20px;" alt="php" width="40" height="40"/>&nbsp;&nbsp;
      <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" style="margin: 0 20px;" alt="react" width="40" height="40"/> &nbsp;&nbsp;
