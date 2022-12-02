@@ -19,6 +19,7 @@
    
    ### Tools & Technologies I use
    <p style="margin: 30px 0;">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Figma <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML5 <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- CSS3 <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Javascript <br>
