@@ -7,9 +7,9 @@
 
 
 
-   - 🔥 Passionate Front-end Developer and UI designer
+   - 🔥 Passionate Front-end Developer and UX designer
    - 😍 CSS Lover
-   - 🌱 I’m currently diving into MERN Development and UI/UX
+   - 🌱 I’m currently diving into UI/UX Design
 
    ### Contact me on
    <p>&nbsp;&nbsp;&nbsp;&nbsp; 
