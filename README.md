@@ -23,7 +23,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML5 <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- CSS3 <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Javascript <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- MERN Stack <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Microsoft Power BI<br>
    </p>
 
    <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhupaliRane&layout=compact&&theme=radical" alt="BhupaliRane" />
